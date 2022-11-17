@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-headline;
+}
+
+body {
+  background: #f1f1e6;
+  /* background: #fefdf4; */
+  /* background: #cfc9b6; */
+  @apply font-body text-primary-700;
+}
+
+a {
+  @apply font-mono;
+}
+
+.gradient-drop {
+  @apply bg-white relative before:absolute before:w-full before:h-full before:-z-10 before:bg-gradient-to-br before:from-primary-500 before:to-primary-700 before:left-[4px] before:top-[4px] before:blur-[8px] rounded-xl before:rounded-xl;
+}
+
+::selection {
+  @apply bg-secondary-300;
+}
