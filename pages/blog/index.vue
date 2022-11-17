@@ -3,12 +3,15 @@
 </script>
 
 <template>
-  <div>
-    <h1>This is the blog page</h1>
-    <li
-      v-for="post of posts"
-      :key="post.slug">
-      <NuxtLink :to="`blog/${post.slug}`">{{ post.title }}</NuxtLink>
-    </li>
-  </div>
+  <main class="max-w-7xl mx-auto flex flex-col items-center justify-center">
+    <h1 class="mb-8 leading-tight text-[4rem] font-bold">Blog</h1>
+
+    <section class="min-h-screen">
+      <li
+        v-for="post of posts"
+        :key="post.slug">
+        <NuxtLink :to="`blog/${post.slug}`">{{ post.title }}</NuxtLink>
+      </li>
+    </section>
+  </main>
 </template>
