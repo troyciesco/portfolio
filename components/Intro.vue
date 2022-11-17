@@ -1,7 +1,7 @@
 <template>
   <section class="max-w-7xl mx-auto flex flex-col items-center justify-center mb-16 px-6 xl:px-0">
     <div class="mb-16">
-      <h2 class="text-4xl font-bold mb-8">Welcome to my site! Here's the TL;DR:</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mb-8">Welcome to my site! Here's the TL;DR:</h2>
       <p class="text-lg mb-4 max-w-prose">
         I have experience working with enterprise companies, small businesses, blockchain startups, and everything in
         between. I specialize in JavaScript/TypeScript development, particularly with React, and I have professional
