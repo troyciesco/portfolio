@@ -6,8 +6,8 @@
         Hello! <br /><span class="bg-primary-200">I'm Troy Ciesco.</span>
       </h1>
       <p class="max-w-prose md:text-xl">
-        I'm a freelance software engineer dedicated to using code to<br /><span
-          class="underline decoration-double decoration-primary-200 underline-offset-4"
+        I'm a freelance software engineer dedicated to using code to
+        <span class="underline decoration-double decoration-primary-200 underline-offset-4"
           >help the world solve important problems.</span
         >
       </p>
