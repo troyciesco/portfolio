@@ -14,7 +14,7 @@
     </div>
     <figure class="mb-16">
       <div class="gradient-drop">
-        <NuxtImg
+        <img
           class="rounded-xl"
           src="/images/t-and-b.jpg"
           alt="Troy and Becca" />
