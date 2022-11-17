@@ -1,10 +1,11 @@
 <template>
-  <section class="grid items-center gap-8 max-w-7xl mx-auto grid-cols-2 h-[88vh]">
-    <div class="pr-4">
-      <h1 class="mb-8 leading-tight text-[4rem] font-bold">
+  <section
+    class="grid items-center gap-8 max-w-7xl mx-auto grid-cols-1 px-6 mb-20 md:mb-0 xl:px-0 md:grid-cols-2 md:h-[88vh]">
+    <div class="md:pr-4">
+      <h1 class="mb-8 leading-tight text-5xl text-left md:text-[4rem] font-bold">
         Hello! <br /><span class="bg-primary-200">I'm Troy Ciesco.</span>
       </h1>
-      <p class="max-w-prose text-xl">
+      <p class="max-w-prose md:text-xl">
         I'm a freelance software engineer dedicated to using code to<br /><span
           class="underline decoration-double decoration-primary-200 underline-offset-4"
           >help the world solve important problems.</span

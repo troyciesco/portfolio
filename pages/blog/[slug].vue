@@ -5,9 +5,9 @@
 </script>
 
 <template>
-  <div class="pt-10">
+  <div class="pt-10 px-8">
     <div class="mb-8">
-      <h1 class="leading-tight text-[4rem] font-bold text-center">{{ data?.title }}</h1>
+      <h1 class="leading-tight text-4xl mb-2 md:text-[4rem] font-bold text-center px-4">{{ data?.title }}</h1>
       <p class="text-center">
         {{ new Date(data?.date).toLocaleDateString("en", { year: "numeric", month: "long", day: "numeric" }) }}
       </p>
