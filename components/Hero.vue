@@ -15,7 +15,7 @@
       <!-- <div
           class="w-56 h-56 bg-white relative before:absolute before:w-full before:h-full before:-z-10 before:bg-gradient-to-r before:from-primary-500 before:to-secondary-500 before:left-0 before:top-0 before:blur-[5px]"></div> -->
       <div class="gradient-drop">
-        <NuxtImg
+        <img
           class="rounded-xl"
           src="/images/headshot.jpg"
           alt="Troy Ciesco" />
