@@ -8,7 +8,11 @@
   <div>
     <h1>This is the post page</h1>
     <ContentRenderer
-      :value="data"
-      v-if="data" />
+      v-if="data"
+      :value="data">
+      <template #empty>
+        <p>No content found.</p>
+      </template>
+    </ContentRenderer>
   </div>
 </template>
