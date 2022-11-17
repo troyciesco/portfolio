@@ -1,5 +1,6 @@
 ---
 title: Why I started a dev journal
+slug: why-i-started-a-dev-journal
 date: 2022-11-17T21:17:21.226Z
 description: I'm going to try out this new idea where I write a blog post about
   what I've worked on (almost) every day. You can call it "learning in public"
