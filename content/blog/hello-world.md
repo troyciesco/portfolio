@@ -1,6 +1,6 @@
 ---
 title: Hello World Post
-date: Thursday November 17th, 2022
+date: 2022-11-17T17:32:35.528Z
 slug: hello-world
 description: This is the description of the post, which I might change to excerpt
 ---
