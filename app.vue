@@ -16,7 +16,6 @@
 <template>
   <div>
     <NuxtLayout>
-      <NuxtLoadingIndicator />
       <Header />
       <NuxtPage />
       <Footer />
