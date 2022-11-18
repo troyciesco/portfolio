@@ -25,8 +25,12 @@ Some benefits:
 - I think it'll offer an opportunity to improve my git commits, since it'll be a lot easier to keep track of what I'm doing if I commit frequently.
 - If I want to turn a project into a tutorial or course after I'm done with it, *I've already done a lot of the work*. I'll just need to clean up the content from the relevant posts and make them easy to follow.
 
-I'm currently taking a class on Early Modern Britain at Harvard, so I've been trying to come up with good analogy[^1] between web development and blacksmithing. So far the best thing I've got is this: it doesn't matter if you know how to create the coolest, most intricate suit of armor ever if all you do is sit in your forge and think about how great you are. You still need to prove it by making things, even if it's just some nails or horseshoes at first.
+I'm currently taking a class on Early Modern Britain at Harvard, so I've been trying to come up with good :superscript{content='analogy' number='1'} between web development and blacksmithing. So far the best thing I've got is this: it doesn't matter if you know how to create the coolest, most intricate suit of armor ever if all you do is sit in your forge and think about how great you are. You still need to prove it by making things, even if it's just some nails or horseshoes at first.
 
 I'm not really planning on actively sharing this section of work, but I hope if someone stumbles across it they'll find it useful - either for the nonsense I write or as guidelines for how they can try to wrangle the chaos of their project list.
 
-[^1]For some reason, I can **never** remember this word. Seriously. I said it out loud the night before I wrote this and I still had to google "what's the word when you draw connections between two different things" for this post.
+:footnote-divider
+
+::footnote{number='1'}
+For some reason, I can **never** remember this word. Seriously. I said it out loud the night before I wrote this and I still had to google "what's the word when you draw connections between two different things" for this post.
+::
