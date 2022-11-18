@@ -12,7 +12,7 @@
         {{ new Date(data?.date).toLocaleDateString("en", { year: "numeric", month: "long", day: "numeric" }) }}
       </p>
     </div>
-    <main class="max-w-prose mx-auto">
+    <main class="max-w-prose mx-auto prose">
       <ContentRenderer
         v-if="data"
         :value="data">
@@ -29,9 +29,14 @@
     p {
       font-size: 1.125rem;
       margin-bottom: 2rem;
+      color: #0051a8 !important;
+      & strong {
+        color: #0051a8 !important;
+      }
     }
 
     ul {
+      color: #0051a8 !important;
       font-size: 1.125rem;
       margin-bottom: 2rem;
       margin-left: 1rem;
