@@ -11,4 +11,6 @@ export default defineNuxtConfig({
   // TODO: figure out how to type this properly
   // @ts-ignore
   image: {},
+  target: "static",
+  ssr: true,
 })
