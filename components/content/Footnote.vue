@@ -18,7 +18,7 @@
   </div>
 </template>
 
-<style lang="scss">
+<style scoped lang="scss">
   .content {
     & p {
       font-size: 0.8rem !important;

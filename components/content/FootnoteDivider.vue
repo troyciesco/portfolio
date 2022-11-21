@@ -2,7 +2,7 @@
   <hr />
 </template>
 
-<style lang="scss">
+<style scoped lang="scss">
   hr {
     margin-top: 1rem !important;
     margin-bottom: 1rem !important;
